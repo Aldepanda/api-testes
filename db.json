@@ -26,7 +26,7 @@
       "codigo": "03",
       "curso": "Eletronica e telecomunicacao",
       "escola": "UTANGA" 
-    },
+    }
   ],
   "historico": [
     {
@@ -108,7 +108,7 @@
       "semestre": "2",
       "aula": "Deep Web e suas vantagens",
       "presenca": "Nenhuma aula lancada" 
-    },
+    }
   ],
    "material": [
     {
@@ -156,7 +156,7 @@
       "id": 4,
       "mes": "Setembro",
       "valor": "12.000"
-    },
+    }
   ],
    "avalicao": [
     {
