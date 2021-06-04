@@ -1,128 +1,31 @@
 {
-  "login": [
+  "Vida": [
     {
       "id": 1,
-      "email": "aldemiro@gmail.com",
-      "nome": "Aldemiro valentim",
-      "senha": 1234 ,
-      "codigo": 01,
-      "curso": "Informatica 5 ano" ,
-      "escola": "UPRA" 
+      "title": "Post 1"
     },
-     {
+    {
       "id": 2,
-      "email": "amandio@gmail.com",
-      "nome": "Amandio Neel",
-      "senha": 12345 ,
-      "codigo": 02,
-      "curso": "Recursos Humano",
-      "escola": "UAN" 
+      "title": "Post 2"
     },
     {
       "id": 3,
-      "email": "alione@gmail.com",
-      "nome": "Alione Kipaca",
-      "senha": 123456 ,
-      "codigo": 03,
-      "curso": "Eletronica e telecomunicacao",
-      "escola": "UTANGA" 
+      "title": "Post 3"
     }
   ],
-  
-  "historico": [
+  "Tudo": [
     {
       "id": 1,
-      "semestre": 1,
-      "disciplina": "ARTES",
-      "nota": 9.00,
-      "situacao":"CURSANDO"
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
-      "semestre": 1,
-      "disciplina": "FISICA",
-      "nota": 10.00,
-      "situacao":"CURSANDO"
-    },
-    {
-      "id": 3,
-      "semestre": 1,
-      "disciplina": "CIENCIAS",
-      "nota": 7.00,
-      "situacao":"CURSANDO"
-    },
-    {
-      "id": 4,
-      "semestre": 2,
-      "disciplina": "HISTORIA",
-      "nota": 9.00,
-      "situacao":"CURSANDO"
-    },
-    {
-      "id": 5,
-      "semestre": 2,
-      "disciplina": "LINGUA INGLESA",
-      "nota": 8.00,
-      "situacao":"CURSANDO"
-    },
-    {
-      "id": 6,
-      "semestre": 2,
-      "disciplina": "MATEMATICA",
-      "nota": 5.00,
-      "situacao":"CURSANDO"
+      "body": "some comment",
+      "postId": 1
     }
   ],
-  
-   "aulas": [
-    {
-      "id": 1,
-      "semestre": 1,
-      "aula": "Administracao de Recursos Humanos",
-      "presenca": "3 faltas" 
-    },
-     {
-      "id": 2,
-      "semestre": 1,
-      "aula": "Logica de Programacao",
-      "presenca": "Nenhuma aula lancada" 
-    },
-    {
-      "id": 3,
-      "semestre": 1,
-      "aula": "As leis de Newton",
-      "presenca": "Nenhuma aula lancada" 
-    },
-     {
-      "id": 4,
-      "semestre": 2,
-      "aula": "Administracao de Recursos Humanos",
-      "presenca": "nenhuma aula lancada" 
-    },
-     {
-      "id": 5,
-      "semestre": 2,
-      "aula": "Como ser uma pessoa melhor",
-      "presenca": "Nenhuma aula lancada" 
-    },
-    {
-      "id": 6,
-      "semestre": 2,
-      "aula": "Deep Web e suas vantagens",
-      "presenca": "Nenhuma aula lancada" 
-    }
-  ],
-   "material": {
-    {
-      "id": 1,
-      "tipo": "ADMINISTRACAO DE PRODUCAO",
-      "quantidade": "Existe 2 material"
-    },
-     {
-      "id": 2,
-      "tipo": "ADMINISTRACAO ESTRATEGICA DE SERVICOS",
-      "quantidade": "Existe 2 material"
-    }   
-}
-  
+  "Empresa": {
+    "name": "typicode"
+  }
 }
