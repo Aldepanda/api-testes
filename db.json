@@ -122,20 +122,7 @@
       "quantidade": "Existe 1 material"
     }   
   ],
-   "horarios": [
-    {
-      "id": 1,
-      "disciplina": "Historia",
-      "nome": "Paulo",
-      "hora": "7:30 - 8-20"
-    },
-     {
-      "id": 2,
-      "disciplina": "Matematica",
-      "nome": "Alberto",
-      "hora": "8:30 - 9-20"
-    }   
-  ],
+  
   
   "Empresa": {
     "name": "Arpetic"
