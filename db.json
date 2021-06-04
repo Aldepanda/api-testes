@@ -136,52 +136,7 @@
       "hora": "8:30 - 9-20"
     }   
   ],
-    "conta": [
-    {
-      "id": 1,
-      "mes": "Dezembro",
-      "valor":" 23.000"
-    },
-      {
-      "id": 2,
-      "mes": "Novembro",
-      "valor": "10.000"
-    },
-     {
-      "id": 3,
-      "mes": "Outubro",
-      "valor": "5.000"
-    },
-     {
-      "id": 4,
-      "mes": "Setembro",
-      "valor": "12.000"
-    }
-  ],
-   "avalicao": [
-    {
-      "id": 1,
-      "arquivo": "AVALICAO DA DISCIPLINA 2017/1 INTRODUCAO AO ESTUDO DAS PERICIAS CRIMINAIS" 
-    },
-     {
-      "id": 2,
-      "arquivo": "AVALICAO DA DISCIPLINA 2019/1 TEORIA GERAL DO DIREITO" 
-    }   
-  ],
-  "recados": [
-    {
-      "id": 1,
-      "nome": "Mateus Delgado",
-      "cargo": "PROFESSOR",
-      "texto": "Testando"
-    },
-     {
-      "id": 2,
-      "nome": "Victor Fernandes",
-      "cargo": "ADMIN",
-      "texto": "Ola estudantes"
-    }   
-  ],
+  
   "Empresa": {
     "name": "Arpetic"
   }
