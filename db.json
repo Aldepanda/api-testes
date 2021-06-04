@@ -33,42 +33,42 @@
       "id": 1,
       "semestre": "1",
       "disciplina": "ARTES",
-      "nota": "9.00"
+      "nota": "9.00",
       "situacao":"CURSANDO"
     },
     {
       "id": 2,
       "semestre": "1",
       "disciplina": "FISICA",
-      "nota": "10.00"
+      "nota": "10.00",
       "situacao":"CURSANDO"
     },
     {
       "id": 3,
       "semestre": "1",
       "disciplina": "CIENCIAS",
-      "nota": "7.00"
+      "nota": "7.00",
       "situacao":"CURSANDO"
     },
     {
       "id": 4,
       "semestre": "2",
       "disciplina": "HISTORIA",
-      "nota": 9.00
+      "nota": "9.00",
       "situacao":"CURSANDO"
     },
     {
       "id": 5,
       "semestre": "2",
       "disciplina": "LINGUA INGLESA",
-      "nota": "8.00"
+      "nota": "8.00",
       "situacao":"CURSANDO"
     },
     {
       "id": 6,
       "semestre": "2",
       "disciplina": "MATEMATICA",
-      "nota": "5.00"
+      "nota": "5.00",
       "situacao":"CURSANDO"
     }
   ],
