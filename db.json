@@ -8,17 +8,7 @@
       "codigo": "01",
       "curso": "Informatica 5 ano" ,
       "escola": "UPRA" 
-    },
-     {
-      "id": 2,
-      "email": "amandio@gmail.com",
-      "nome": "Amandio Neel",
-      "senha": "12345" ,
-      "codigo": "02",
-      "curso": "Recursos Humano",
-      "escola": "UAN" 
     }
-   
   ],
   "Coragem": [
     {
