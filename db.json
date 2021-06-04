@@ -8,6 +8,15 @@
       "codigo": 01,
       "curso": "Informatica 5 ano" ,
       "escola": "UPRA" 
+    },
+     {
+      "id": 2,
+      "email": "aldemiro@gmail.com",
+      "nome": "Aldemiro valentim",
+      "senha": 1234 ,
+      "codigo": 01,
+      "curso": "Informatica 5 ano" ,
+      "escola": "UPRA" 
     }
   ],
   "Coragem": [
