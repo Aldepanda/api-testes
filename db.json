@@ -111,7 +111,16 @@
     }
   ],
   
-  "Empresa": {
-    "name": "Arpetic"
-  }
+ "material": [
+    {
+      "id": 1,
+      "tipo": "ADMINISTRACAO DE PRODUCAO",
+      "quantidade": "Existe 2 material"
+    },
+     {
+      "id": 2,
+      "tipo": "ADMINISTRACAO ESTRATEGICA DE SERVICOS",
+      "quantidade": "Existe 1 material"
+    }   
+   }
 }
